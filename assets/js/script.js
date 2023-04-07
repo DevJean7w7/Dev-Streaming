@@ -103,7 +103,7 @@ const sliderInit = function (currentSlider) {
 
   let autoSlideInterval;
 
-  const startAutoSlide = () => autoSlideInterval = setInterval(slideNext, 3000);
+  const startAutoSlide = () => autoSlideInterval = setInterval(slideNext, 5000);
   startAutoSlide();
   const stopAutoSlide = () => clearInterval(autoSlideInterval);
 
