@@ -829,7 +829,7 @@
   .footer { background-color: var(--oxford-blue); }
   
   .footer-top {
-    padding-block-start: calc(var(--section-padding) + 200px);
+ 
     border-block-end: 1px solid var(--white_a10);
   }
   
